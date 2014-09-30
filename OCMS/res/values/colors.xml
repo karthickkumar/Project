@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background">#00A19C</color>
+    <color name="actionbar">#28675E</color>
+    <color name="secondary_actionbar">#378D57</color>
+    <color name="listview">#114950</color>
+    
+ 
+
+</resources>
